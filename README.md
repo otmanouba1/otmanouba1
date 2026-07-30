@@ -13,7 +13,7 @@
 - 💼 Currently building a **production-grade NestJS e-commerce backend** — JWT auth, RBAC, rate limiting, email verification, Prisma + PostgreSQL
 - ☁️ Pursuing a **DevOps / DevSecOps** career path — targeting AWS certifications (SAA → DVA → DOP → Security Specialty)
 - 🎯 Applying to Master's programs in France & Morocco focused on **Cybersecurity / DevOps**
-- 📚 I write comprehensive **"zero to hero" technical reference guides** on Docker, Linux, Prisma, NestJS, and Jest
+- 📚 I write comprehensive **"zero to hero"** technical reference guides on Docker, Linux, Prisma, NestJS, and Jest
 - 🌍 Languages: **Arabic** (native) · **English C1** · **French B1**
 - 🐧 Daily driver: **Parrot OS**
 
@@ -52,7 +52,8 @@
 
 ### 📌 Featured Project
 
-🛒 **[NestJS E-Commerce Backend](https://github.com/otmanouba1)** — Production-grade REST API built with NestJS, featuring:
+🛒 **[NestJS E-Commerce Backend](https://github.com/otmanouba1/ecommerce-backend)** — Production-grade REST API built with NestJS, featuring:
+
 - JWT access + refresh token auth with secure rotation
 - Role-based access control (Customer / Seller / Admin)
 - Email verification flow with expiring tokens
